@@ -38,8 +38,8 @@ A API não está em produção, entretanto, caso queira utiliza-la, é bem fáci
 
 PRINTS  DO PROJETO
 --------------
-Swagger: 
+
 ![image](https://github.com/JotaPeCarvalho/MessageProjectDDD/assets/91575096/c7ba5880-82c0-4f3b-a252-02c08199be8f)
 
-Projeto: 
+ 
 ![image](https://github.com/JotaPeCarvalho/MessageProjectDDD/assets/91575096/6e7937b8-e034-4016-9c12-f611262eeb4e)
